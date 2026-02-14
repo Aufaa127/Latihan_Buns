@@ -1,0 +1,10 @@
+[install]
+external = [
+  "pg",
+  "pg-query-stream",
+  "sqlite3",
+  "better-sqlite3",
+  "oracledb",
+  "mysql",
+  "tedious"
+]
